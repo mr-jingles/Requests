@@ -1,5 +1,6 @@
 {
 	"name": "mr-jingles/requests",
+	"type" : "magento-module",
 	"description": "A clone of HTTP library written in PHP, for human beings.",
 	"homepage": "http://github.com/rmccue/Requests",
 	"license": "ISC",
