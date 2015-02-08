@@ -15,10 +15,8 @@
 	},
 	"require-dev": {
 		"satooshi/php-coveralls": "dev-master",
-		"requests/test-server": "dev-master"
+		"requests/test-server": "dev-master",
+		"magento-hackathon/magento-composer-installer" : "*"
 	},
-	"type": "library",
-	"autoload": {
-		"psr-0": {"Requests": "library/"}
-	}
+	"type": "library"
 }
