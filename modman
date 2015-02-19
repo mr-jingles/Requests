@@ -1,1 +1,2 @@
-library/		lib/Requests
+library/Requests       lib/Requests
+library/Requests.php   lib/Requests.php
